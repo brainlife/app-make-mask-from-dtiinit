@@ -74,5 +74,5 @@ The secondary output of this app is `product.json`. This file allows web interfa
 
 This App requires the following libraries when run locally. 
 
-- Singularity: 
-- json: 
+- Singularity: https://singularity.lbl.gov/quickstart
+- jsonlab: https://github.com/fangq/jsonlab
