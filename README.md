@@ -21,12 +21,6 @@ This app will converts the brainmask found inside the DTIINIT structure to a mas
 [![NSF-IIS-1912270](https://img.shields.io/badge/NSF_IIS-1912270-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1912270)
 [![NIH-NIBIB-R01EB029272](https://img.shields.io/badge/NIH_NIBIB-R01EB029272-green.svg)](https://grantome.com/grant/NIH/R01-EB029272-01)
 
-### Citations 
-
-Please cite the following articles when publishing papers that used data, code or other resources created by the brainlife.io community. 
-
- 
-
 ## Running the App 
 
 ### On Brainlife.io 
